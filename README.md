@@ -7,4 +7,5 @@ No dependencies, no service to run — just the standard library.
 ```
 duration.ts
 ```
+
 See the test next to the source for usage.
