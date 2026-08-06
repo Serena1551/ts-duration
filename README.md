@@ -2,10 +2,10 @@
 
 Parse '1h30m' style durations to seconds and back — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+TypeScript Duration uses only the typescript standard library; there is no service or dependency to install.
 
 ```
 duration.ts
 ```
 
-See the test next to the source for usage.
+Run the TypeScript Duration test next to the implementation for concrete examples.
